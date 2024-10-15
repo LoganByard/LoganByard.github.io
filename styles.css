@@ -1,0 +1,24 @@
+
+td {
+    padding: 10px; 
+}
+
+a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Bootstrap primary link color */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6; 
+    margin-bottom: 15px; 
+}
+
+body {
+    background-color: #faebd0; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+}
